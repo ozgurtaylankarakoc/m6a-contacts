@@ -63,7 +63,7 @@ resource "github_repository_file" "db_endpoint_file" {
   overwrite_on_create = true
   commit_message      = "commited by Terraform"
   commit_author       = "Terraform Gods"
-  commit_email = "ozgurtaylankarakoc@gmail.com"
+  commit_email = "#WRITE_YOUR_MAIL_ADRESS"
 }
 
 
